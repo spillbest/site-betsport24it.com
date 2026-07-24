@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://betsport24it.com/sitemap.xml
